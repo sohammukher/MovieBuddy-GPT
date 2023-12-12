@@ -2,6 +2,9 @@
 
 - npx create-react-app name
 - Configure Tailwind
+- Build header
+- Build Login Form
+- Signup Form
 
 # Features
 - Login/ Sign Up

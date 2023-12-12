@@ -1,8 +1,9 @@
 import './App.css';
+import Body from './Body';
 
 function App() {
   return (
-   <p className="text-3xl font-bold text-red-600">Hello </p>
+   <Body/>
   );
 }
 
